@@ -1,4 +1,5 @@
-# IBMFlutter
+# IBMFLUTTER
+
 ## Developing Mobile Apps with Flutter Specialization (3 course series)
 
 The mobile app market is unstoppable and is projected to keep growing nearly 15% every year to 2030 - Grand View Research). This means the demand for skilled mobile app developers is booming, offering a highly competitive, average annual salary in the US of $110,498 (salary.com). This Developing Mobile Apps with Flutter Specialization gives aspiring mobile app developers the job-ready skills and hands-on experience employers are looking for.
